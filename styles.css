@@ -1,0 +1,14 @@
+#tracking_parcel_fields{
+    position: relative;
+}
+#tracking_parcel_fields div#parcel_overlay{
+    background: white;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+#tracking_parcel_fields div#parcel_overlay #parcel_preloader{
+    text-align: center;
+}
